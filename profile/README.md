@@ -91,6 +91,7 @@
 <img width="80" alt="mysql" src="https://github.com/user-attachments/assets/ea75f72a-8e79-47f7-ac27-c6102d880a7c" />
 <img width="80" alt="elasticsearch" src="https://github.com/user-attachments/assets/7900d7b7-27c2-45a9-bfa3-ca9a8ab5e953" />
 <img width="80" alt="springsecurity" src="https://github.com/user-attachments/assets/a3523750-3215-4dbf-8c9a-9abcca54c87f" />
+  <img width="80" alt="springAI" src="https://github.com/user-attachments/assets/1be09c62-c432-4721-82d1-93899361b7f9" />
 </div>
 
 ### Infra
